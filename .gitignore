@@ -1,0 +1,4 @@
+# Bundle
+gems.locked
+# Rubocop
+.rubocop_todo.yml
